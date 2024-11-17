@@ -1,0 +1,32 @@
+# For IntelliJ IDEA
+.idea/
+*.iml
+
+# For Angular (Node.js)
+node_modules/
+dist/
+coverage/
+
+# For Spring Boot (Maven/Gradle)
+target/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.sql
+
+# OS-specific files (Windows)
+Thumbs.db
+Desktop.ini
+
+# Java IDE-specific files
+*.project
+*.classpath
+*.settings/
+*.springbeans/
+
+# Other potential unnecessary files
+*.bak
+*.swp
